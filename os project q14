@@ -49,6 +49,7 @@ int main()
  
         total+=wt[i];
     }
+ 
     avg_wt=total/n;      //total average waiting time
     total=0;
  
